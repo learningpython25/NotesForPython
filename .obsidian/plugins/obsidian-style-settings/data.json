@@ -1,0 +1,15 @@
+{
+  "things-style@@h1-size": "1.8em",
+  "things-style@@h2-size": "1.6em",
+  "things-style@@h3-size": "1.5em",
+  "things-style@@h4-size": "1.3em",
+  "things-style@@h5-size": "1.2em",
+  "things-style@@h2-underline": false,
+  "things-style@@h2-color": "#1E6EDE",
+  "things-style@@strong-color": "#FFBF00",
+  "things-style@@em-color": "#FF8C00",
+  "things-style@@quote-color": "#3EB4BF",
+  "things-style@@h3-color": "#00FBFF",
+  "things-style@@code-color-d": "#89CFF0",
+  "things-style@@code-normal": "#89CFF0"
+}

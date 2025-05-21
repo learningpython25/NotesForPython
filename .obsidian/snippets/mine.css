@@ -1,0 +1,57 @@
+.articles a {
+  color: #dadada;
+  text-decoration: none;
+}
+
+.workspace {
+  --background-primary: #12343b15;
+  --background-secondary: #12343b15;
+}
+
+/* selected
+ deep teal: 12343b15
+
+ */
+
+.hide-embedded-header1 .markdown-embed h1 {
+  display: none;
+}
+
+.remove-strike ul > li.task-list-item[data-task="x"] {
+  text-decoration: none;
+}
+
+/* TODO: Audacious August Page */
+.audacious {
+  max-width: 100%;
+}
+.audacious table tbody td:not(:nth-child(4)) {
+  text-align: center;
+}
+
+.audacious table tr td:first-child {
+  color: rgba(0, 191, 255, 0.697);
+}
+
+.audacious table tbody tr:nth-child(-n + 4) td:not(:nth-child(1)) {
+  background-color: rgba(46, 75, 2, 0.4);
+}
+
+.full-width-page.markdown-source-view.is-readable-line-width .CodeMirror,
+.full-width-page.markdown-preview-view.is-readable-line-width .CodeMirror,
+.full-width-page.markdown-source-view.is-readable-line-width .markdown-preview-sizer,
+.full-width-page.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100%;
+  margin: auto;
+}
+
+.weekly_plan .markdown-preview-view progress, .markdown-rendered progress, .markdown-source-view.is-live-preview progress{
+  border: 1px solid #746e6e;
+  height: 10px;
+  border-radius: 7.5px;
+}
+
+.hide-embedded-header1 .markdown-embed h1, .hide-embedded-header1 .markdown-embed hr{
+	display: none; 
+  
+}
