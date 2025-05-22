@@ -22,7 +22,7 @@ Below are the types of imports:
 - it's internal Python **semi-compiled code**
 
 `__name__`
-- in-built variable available in the module scope of python namespace
+- **in-built variable** available in the module scope of python namespace
 - Moreover, each source file uses its own, separate version of the variable - it isn't shared between modules.
 - When you run a file directly, its `__name__` variable is set to `__main__`;
 
