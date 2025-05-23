@@ -24,49 +24,77 @@
             }
           },
           {
+            "id": "ce11c20bb69d3ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week1/W1.4 - Packages & LeetCode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W1.4 - Packages & LeetCode"
+            }
+          },
+          {
             "id": "810ef6e448c00455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__ Syntax Cheat Sheet.md",
+                "file": "Notes/Python/Core Concepts/Mutable vs immutable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__ Syntax Cheat Sheet"
+              "title": "Mutable vs immutable"
             }
           },
           {
-            "id": "a53024efba7833e2",
+            "id": "a7ec849812b6bca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workspace/LeetCode/Tracker.md",
+                "file": "Week1/W1.4 - Packages & LeetCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tracker"
+              "title": "W1.4 - Packages & LeetCode"
             }
           },
           {
-            "id": "428048ea7d53109a",
+            "id": "0cd11ab4329e03a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__ Syntax Cheat Sheet.md",
+                "file": "__Learning Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__ Syntax Cheat Sheet"
+              "title": "__Learning Python"
+            }
+          },
+          {
+            "id": "7abfcd5355eaf69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Python/Built-Ins/Built-In Functions/8. Introspecting Objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Introspecting Objects"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
     "id": "c80baa15bfdb8cde",
@@ -218,47 +246,29 @@
     "type": "floating",
     "children": [
       {
-        "id": "6877fcd76ded1724",
+        "id": "f01496de4abcc1a0",
         "type": "window",
         "children": [
           {
-            "id": "64f0d06f55a8cccc",
+            "id": "e0bad5baa949657d",
             "type": "tabs",
             "children": [
               {
-                "id": "2e8286411b9e57dd",
+                "id": "40d901d85c067f38",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vault/What to Teach/Day 03 - 21.May.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Day 03 - 21.May"
-                }
-              },
-              {
-                "id": "462ec557ab163000",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vault/__ Master Cheat Sheet.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "__ Master Cheat Sheet"
+                  "title": "New tab"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 2550,
-        "y": -259,
+        "x": 2584,
+        "y": -263,
         "width": 1540,
         "height": 827,
         "maximize": true,
@@ -266,45 +276,45 @@
       }
     ]
   },
-  "active": "a53024efba7833e2",
+  "active": "0cd11ab4329e03a9",
   "lastOpenFiles": [
-    "Week1/W1.3.md",
-    "workspace/LeetCode/1. 1-Two Sum.md",
-    "workspace/LeetCode/2. 165-Two Sum II.md",
-    "workspace/LeetCode/3. 15-3Sum.md",
+    "Week1/W1.4 - Packages & LeetCode.md",
     "workspace/LeetCode/Tracker.md",
-    "Vault/What to Teach/Day 03 - 21.May.md",
-    "Vault/__ Master Cheat Sheet.md",
+    "workspace/LeetCode/3. 15-3Sum.md",
+    "workspace/LeetCode/2. 165-Two Sum II.md",
+    "workspace/LeetCode/1. 1-Two Sum.md",
+    "Notes/Python/Built-Ins/Built-In Functions/__Built In Functions.md",
+    "Notes/Python/Built-Ins/Built-In Functions/8. Introspecting Objects.md",
+    "Notes/Python/Core Concepts/virtual environment.md",
     "Notes/Python/Core Concepts/Modules and imports.md",
-    "__ Syntax Cheat Sheet.md",
-    "Notes/Python/Built-Ins/Built In Functions.md",
-    "Week1/W1.2 - Modules.md",
-    "__Learning Python.md",
-    "Week1/W1.1 - Setup and PIP.md",
+    "Notes/Python/Core Concepts/Mutable vs immutable.md",
+    "Vault/Core Concpets/mutable_vs_immutable.md",
+    "Vault/Built Ins/Built-In Functions/8. Introspecting Objects.md",
+    "Vault/Built Ins/Built-In DataTypes/Built-In Data Types.md",
+    "Vault/Built Ins/Built-In Functions/__Built In Functions.md",
+    "Notes/Python/Built-Ins/Built-In Datatypes/__Built In Data Types.md",
+    "Notes/Python/Built-Ins/Built-In Functions/Untitled.md",
+    "Notes/Python/Built-Ins/Built-In Datatypes",
+    "Notes/Python/Built-Ins/Built-In Functions",
+    "Notes/Python/Built-Ins/Untitled.md",
+    "Notes/Python/Built-Ins",
     "Resources.md",
+    "Vault/Core Concpets/Terms.md",
+    "Notes/Python/Built-Ins/Built In Variables.md",
+    "Notes/Python/Built-Ins/Built In Functions.md",
+    "Week1/W1.3 - Syntax & Modules.md",
+    "Vault/What to Teach/Day 03 - 21.May.md",
+    "Week1/W1.2 - Venv & Git.md",
+    "Vault/__ Master Cheat Sheet.md",
+    "__ Syntax Cheat Sheet.md",
     "workspace/LeetCode",
     "workspace",
-    "Untitled.md",
     "media/Pasted image 20250520213617.png",
     "media",
     "New folder",
     "New Text Document.txt",
-    "Vault/What to Teach/Day 2 - 20.May.md",
     "Pasted image 20250520213617.png",
-    "Notes/Python/Core Concepts/virtual environment.md",
-    "Vault/What to Teach/Day 1 - 19.May.md",
-    "Notes/Python/Infra/Commands.md",
-    "Notes/Git/Git Basics.md",
-    "Notes/Python/Infra/PIP.md",
     "Notes/Python/Infra",
-    "Language/modules/1. Venv.md",
-    "Notes/Python/Core Concepts/Mutable vs immutable.md",
-    "Notes/Python/Core Concepts/Terms.md",
-    "Vault/What to Teach",
-    "Notes/Python/Index.md",
-    "Notes/CS Concepts/Big O.md",
-    "Notes/Python/Datatypes",
-    "Notes/Python/Built-Ins",
-    "Notes/Python/Core Concepts"
+    "Vault/What to Teach"
   ]
 }
