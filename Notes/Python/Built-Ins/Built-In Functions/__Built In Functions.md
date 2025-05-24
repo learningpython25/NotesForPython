@@ -1,5 +1,5 @@
 
-Completed: [1 of 71]
+Completed: [8 of 71]
 
 #### Index
 1. Math Functions
@@ -13,7 +13,7 @@ Completed: [1 of 71]
 9. Running Python Code From Strings
 10. Using Miscellaneous Functions
 
-**Using Math-Related Built-in Functions**
+**Using Math-Related Built-in Functions** [[1. Math Related functions|Notes]]
 - `abs()`
 - `divmod()`
 - `max()`

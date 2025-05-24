@@ -31,3 +31,6 @@ Below are the types of imports:
 `__init__.py`
 - any folder containig the init.py will be treated as a package '
 - This file will be executed when the folder containing this file is imported independent of its children being copied or not
+
+`__doc__`
+gives the doc string of a a function or class or module

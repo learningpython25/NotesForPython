@@ -25,3 +25,15 @@
 #### Intialization
 `git config --global user.name my_name` - set the global user name - has nothing to do with any websites credentials
 `git config --global user.email my_email.com` - set the global user name - has nothing to do with any websites credentials
+
+
+`git config --global init.defaultBranch main`
+
+```bash
+git remote add "origin" git@github.com:User/UserRepo.git
+```
+
+
+```bash
+git remote set-url "origin" git@github.com:User/UserRepo.git
+```
