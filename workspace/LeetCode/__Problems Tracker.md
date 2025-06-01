@@ -16,8 +16,8 @@
 | Problem                  | Attempt 1 | Attempt 2 | Attempt 3 | Comment |
 | ------------------------ | --------- | --------- | --------- | ------- |
 | 1. Primes                | ✔         |           |           |         |
-| 2. Fibonacci             |           |           |           |         |
+| 2. Primes Seive          | ✔         |           |           |         |
 | 3. Factorial (recursion) | ✔         |           |           |         |
 | 4. Palindrome            |           |           |           |         |
-| 5.Primes Sieve           | ✔         |           |           |         |
+| 5.Fibonacci              |           |           |           |         |
 

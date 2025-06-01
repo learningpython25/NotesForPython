@@ -2,12 +2,16 @@
 **Meeting Link:** https://zoom.us/j/5233688028?pwd=YqFR8sye2chANbw7Oy5BX0oiil38dG.1
 
 ### Python
-- PyDocs: https://docs.python.org/3/reference/index.html
-- PIP: https://pip.pypa.io/en/stable/getting-started/
+- **PyDocs**: https://docs.python.org/3/reference/index.html
+- **PIP**: https://pip.pypa.io/en/stable/getting-started/
 	- flags: https://pip.pypa.io/en/stable/cli/pip_install/#options
-- Imports: https://docs.python.org/3/reference/simple_stmts.html#the-import-statement
-
-
+- **Imports**: https://docs.python.org/3/reference/simple_stmts.html#the-import-statement
+- **Built-In Data Types**
+	- https://docs.python.org/3/library/stdtypes.html
+- **Built In Keywords**
+	- https://docs.python.org/3/reference/lexical_analysis.html#keywords 
+- **Built In Constants**
+	- https://docs.python.org/3/library/constants.html
 ### GIT
 - SCM Tutorial: https://git-scm.com/docs/gittutorial
 - YouTube - Git Branches: https://www.youtube.com/watch?v=e2IbNHi4uCI
