@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Python/Core Concpets/Terms.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terms"
+              "title": "README"
             }
           },
           {
@@ -184,6 +184,8 @@
   },
   "active": "3492d88617f17b29",
   "lastOpenFiles": [
+    "Vault/Python/Core Concpets/Terms.md",
+    "README.md",
     "Vault/Python/Core Concpets/Rest type operator.md",
     "Vault/Python/Core Concpets/Opertors.md",
     "Notes/Python/Core Concepts/Packing vs Unpacking.md",
@@ -209,8 +211,6 @@
     "Notes/Python/Built-Ins/Built-In Datatypes/bool.md",
     "__Learning Python.md",
     "Vault/What to Teach/Day 10. 30 May.md",
-    "Vault/What to Teach/Day 6 - 26. May.md",
-    "Notes/Python/Built-Ins/Built-In Functions/__Built In Functions.md",
     "Vault/Python/Built Ins/Built-In DataTypes/Set Types",
     "Notes/Python/Built-Ins/Built-In Datatypes/Text Types",
     "Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types",
