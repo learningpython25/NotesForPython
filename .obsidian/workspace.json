@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "09f7281390342252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Python/Core Concpets/Packing vs Unpacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Packing vs Unpacking"
-            }
           }
         ]
       }
@@ -184,8 +170,8 @@
   },
   "active": "3492d88617f17b29",
   "lastOpenFiles": [
-    "Vault/Python/Core Concpets/Terms.md",
     "README.md",
+    "Vault/Python/Core Concpets/Terms.md",
     "Vault/Python/Core Concpets/Rest type operator.md",
     "Vault/Python/Core Concpets/Opertors.md",
     "Notes/Python/Core Concepts/Packing vs Unpacking.md",
