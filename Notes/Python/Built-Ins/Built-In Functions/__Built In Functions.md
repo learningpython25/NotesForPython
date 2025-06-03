@@ -1,5 +1,5 @@
 
-Completed: [8 of 71]
+Completed: [23 of 71]
 
 #### Index
 1. Math Functions
@@ -14,43 +14,43 @@ Completed: [8 of 71]
 10. Using Miscellaneous Functions
 
 **Using Math-Related Built-in Functions** [[1. Math Related functions|Notes]]
-- `abs()`
-- `divmod()`
-- `max()`
-- `min()`
-- `pow()`
-- `round()`
-- `sum()`
+- *`abs()`*
+- *`divmod()`*
+- *`max()`*
+- *`min()`*
+- *`pow()`*
+- *`round()`*
+- *`sum()`*
 
 **Creating and Manipulating Basic Data Types**
-- `int()`
-- `bin()`
-- `oct()`
-- `hex()`
-- `float()`
-- `complex()`
-- `str()`
+- *`int()`*
+- *`bin()`*
+- *`oct()`*
+- *`hex()`*
+- *`float()`*
+- *`complex()`*
+- *`str()`*
 - `repr()`
-- `bool()`
-- `ord()`
-- `chr()`
+- *`bool()`*
+- *`ord()`*
+- *`chr()`*
 - `bytes()`
 - `bytearray()`
 
 **Creating Collection Data Types**
-- `list()`
-- `tuple()`
-- `dict()`
-- `set()`
-- `frozenset()`
+- *`list()`*
+- *`tuple()`*
+- *`dict()`*
+- *`set()`*
+- *`frozenset()`*
 
 **Processing Iterables and Iterators**
-- `len()`
-- `reversed()`
-- `sorted()`
-- `all()`
-- `any()`
-- `range()`
+- *`len()`*
+- *`reversed()`*
+- *`sorted()`*
+- *`all()`*
+- *`any()`*
+- *`range()`*
 - `enumerate()`
 - `slice()`
 - `zip()`

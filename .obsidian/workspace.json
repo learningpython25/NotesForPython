@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e12d71e7f5f640e8",
+        "id": "ee11f0796157f197",
         "type": "tabs",
         "children": [
           {
-            "id": "3492d88617f17b29",
+            "id": "7079de17f069655f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,34 @@
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "d3e3e840f69bc46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Python/Built-Ins/Built-In Functions/2. Basic Data Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Basic Data Types"
+            }
+          },
+          {
+            "id": "20662193eebde290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Python/Built Ins/Built-In Functions/Today's Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Today's Functions"
             }
           }
         ]
@@ -168,44 +196,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3492d88617f17b29",
+  "active": "7079de17f069655f",
   "lastOpenFiles": [
+    "Notes/Python/Built-Ins/Built-In Functions/2. Basic Data Types.md",
+    "Notes/Python/Built-Ins/Built-In Functions/4. Iterable Functions.md",
+    "Notes/Python/Built-Ins/Built-In Functions/3. Collection Data Types.md",
     "README.md",
-    "Vault/Python/Core Concpets/Terms.md",
-    "Vault/Python/Core Concpets/Rest type operator.md",
-    "Vault/Python/Core Concpets/Opertors.md",
-    "Notes/Python/Core Concepts/Packing vs Unpacking.md",
-    "Vault/Python/Core Concpets/Lists vs Tuple vs Set vs Dict.md",
-    "Vault/Python/Core Concpets/Deep Copy vs Shallow Copy.md",
-    "Vault/Quiz/1. PIP Quiz.md",
-    "Vault/Python/Code Snippets/Get All Data Types.md",
-    "Vault/Python/Built Ins/Built-In Keywords/__Built In Keywords.md",
-    "Vault/Python/Built Ins/Built-In Constants.md",
+    "Vault/Python/Built Ins/Built-In Functions/Today's Functions.md",
+    "Notes/Python/Built-Ins/Built-In Functions/__Built In Functions.md",
+    "Workspace/LeetCode/1.Prefix Sum/1. Range Sum Query [LC303].md",
+    "Notes/Python/Modules/2. pathlib.md",
+    "Workspace/LeetCode/1.Prefix Sum",
+    "Workspace/LeetCode",
+    "Workspace",
+    "Vault/Python/Modules/2. sys.md",
+    "Notes/Python/Modules/1. random.md",
+    "Notes/Python/Core Concepts/Mutable vs immutable.md",
     "Vault/Python/Built Ins/Built In Dunders.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Numeric Types.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/_Common Sequence Methods.md",
+    "Vault/What to Teach/Day 11 - 02.June.md",
+    "Notes/Python/Modules/2. Pathlib.md",
+    "Notes/Python/Modules",
+    "Vault/__Ideas and.md",
     "Notes/Python/Built-Ins/Built-In Datatypes/Text Types/2.3 String - Formatting.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Set Types",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Text Types/2.2 String - Methods.md",
     "Notes/Python/Built-Ins/Built-In Datatypes/Text Types/2.1 String - Intro.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Set Types/Set & Frozen Set.md",
-    "Vault/Python/Built Ins/Built-In DataTypes/Set Types/Set.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/__Built In Data Types.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types/Tuples.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types/Range.md",
+    "Notes/Python/Built-Ins/Built-In Datatypes/Text Types/2.2 String - Methods.md",
     "Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types/Lists.md",
-    "Notes/Python/Built-Ins/Built-In Datatypes/bool.md",
-    "__Learning Python.md",
-    "Vault/What to Teach/Day 10. 30 May.md",
-    "Vault/Python/Built Ins/Built-In DataTypes/Set Types",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Text Types",
-    "Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types",
-    "Vault/Workspace",
-    "Vault/Python/Code Snippets",
-    "Vault/Quiz/Unconfirmed 398688.crdownload",
-    "Vault/Quiz/Unconfirmed 281483.crdownload",
-    "Vault/Quiz",
-    "Vault/New folder",
+    "media/Pasted image 20250602183838.png",
+    "Vault/Workspace/LeetCode/__LeetCode.md",
+    "Vault/Python/Core Concpets/Deep Copy vs Shallow Copy.md",
+    "Vault/What to Teach/Week 3.md",
+    "Vault/Python/Modules/3. os.md",
+    "Vault/Python/Modules/___Modules.md",
+    "__ Syntax Cheat Sheet.md",
+    "Vault/Workspace/LeetCode/5. Monotonic Stack/15. Largest Rectangle in Histogram[LC#84].md",
+    "Vault/Workspace/LeetCode/5. Monotonic Stack/New Text Document.txt",
+    "Vault/Workspace/LeetCode/4. Fast & Slow Pointers/New Text Document.txt",
+    "Vault/Workspace/LeetCode/3. Sliding Window/New Text Document - Copy - Copy.txt",
+    "Vault/Workspace/LeetCode/3. Sliding Window/New Text Document - Copy.txt",
+    "Vault/Workspace/LeetCode/3. Sliding Window/New Text Document.txt",
+    "Vault/Workspace/LeetCode/2. Two Pointer/4. Two Sum II - Input Array is Sorted [LC167]",
     "Animation_Sieve_of_Eratosth.gif",
     "media/Pasted image 20250520213617.png",
     "Pasted image 20250520213617.png"

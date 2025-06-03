@@ -159,13 +159,6 @@ def sqr(x):
 - `if`, `elif`, `else`
 - Loops: `for`, `while`
 - Loop Control: `break`, `continue`, `pass`
-
-### 4. Functions
-- Defining Functions
-- Arguments and Return Values
-- Lambda Functions
-- `*args` and `**kwargs`
-
 ### 5. Data Structures
 - Lists
 - Tuples
