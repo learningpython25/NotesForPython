@@ -45,7 +45,7 @@
 	- Data Type Based: `int()`, `bin()`, `oct()`, `hex()`, `float()`, `complex()`, `str()`, `bool()`, `ord()`, `chr()`
 
 
-## Week 2
+## Week 3
 - **Modules**
 	- `random` -[[1. random]]
 	- `pathlib` - [[2. pathlib]]
