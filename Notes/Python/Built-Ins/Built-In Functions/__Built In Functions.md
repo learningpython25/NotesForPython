@@ -30,7 +30,7 @@ Completed: [23 of 71]
 - *`float()`*
 - *`complex()`*
 - *`str()`*
-- `repr()`
+- *`repr()`*
 - *`bool()`*
 - *`ord()`*
 - *`chr()`*
@@ -51,13 +51,13 @@ Completed: [23 of 71]
 - *`all()`*
 - *`any()`*
 - *`range()`*
-- `enumerate()`
-- `slice()`
-- `zip()`
+- *`enumerate()`*
+- *`slice()`*
+- *`zip()`*
 - `iter()`
 - `next()`
-- `filter()`
-- `map()`
+- *`filter()`*
+- *`map()`*
 
 **Processing Input and Output**
 - `input()`

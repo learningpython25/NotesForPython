@@ -1,4 +1,3 @@
-
 ## Week 1
 - Modules and Packages
 - PIP
@@ -49,12 +48,18 @@
 - **Modules**
 	- `random` -[[1. random]]
 	- `pathlib` - [[2. pathlib]]
+	- `datetime` - [[3. datetime]]
+	- `sys` - [[4. sys]]
 - **Core Concepts**
-	- Mutable vs Immutabe *rebinding vs mutation* [[Mutable vs immutable]]
+	- *Rebinding vs Mutation* [[Mutable vs immutable]]
+	-  [[Deep Copy vs Shallow Copy]]
 - **Built In Functions**
 	- `repr` [[2. Basic Data Types#`repr()`]]
 	- `enumerate` [[4. Iterable Functions#`enumerate()`]]
 	- `slice` [[4. Iterable Functions#`slice()`]]
+	- `zip()` [[4. Iterable Functions#`zip()`]]
+	- `map()` [[4. Iterable Functions#`map()`]]
+	- `filter()` [[4. Iterable Functions#`filter()`]]
 - **Problems**
 	- *Prefix Sum*
 		- 303. Range Sum Query [[1. Range Sum Query [LC303]]]
