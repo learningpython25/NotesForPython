@@ -50,9 +50,13 @@
 	- `pathlib` - [[2. pathlib]]
 	- `datetime` - [[3. datetime]]
 	- `sys` - [[4. sys]]
+	- `shutil` - [[5. shutil]]
+	- `json` - [[6. json]]
 - **Core Concepts**
 	- *Rebinding vs Mutation* [[Mutable vs immutable]]
 	-  [[Deep Copy vs Shallow Copy]]
+	- [[YAML XML JSON]]
+	- [[Call by value vs reference]]
 - **Built In Functions**
 	- `repr` [[2. Basic Data Types#`repr()`]]
 	- `enumerate` [[4. Iterable Functions#`enumerate()`]]
@@ -60,6 +64,9 @@
 	- `zip()` [[4. Iterable Functions#`zip()`]]
 	- `map()` [[4. Iterable Functions#`map()`]]
 	- `filter()` [[4. Iterable Functions#`filter()`]]
+	- `dir()` [[8. Introspecting Objects#`dir()`]]
+	- `eval()` [[9. Running Python Code From Strings#`eval()`]]
+	- `exec()` [[9. Running Python Code From Strings#`exec()`]]
 - **Problems**
 	- *Prefix Sum*
 		- 303. Range Sum Query [[1. Range Sum Query [LC303]]]
