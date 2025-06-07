@@ -52,6 +52,8 @@
 	- `sys` - [[4. sys]]
 	- `shutil` - [[5. shutil]]
 	- `json` - [[6. json]]
+	- `re` - [[7.re]]
+	- `logging` - [[8. logging]]
 - **Core Concepts**
 	- *Rebinding vs Mutation* [[Mutable vs immutable]]
 	-  [[Deep Copy vs Shallow Copy]]

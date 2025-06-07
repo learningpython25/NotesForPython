@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Python/Built-In Modules/8. logging.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. logging"
+              "title": "README"
             }
           },
           {
@@ -240,8 +240,8 @@
   },
   "active": "60bced019765deb5",
   "lastOpenFiles": [
-    "Notes/Python/Built-In Modules/7.re.md",
     "Notes/Python/Built-In Modules/8. logging.md",
+    "Notes/Python/Built-In Modules/7.re.md",
     "Vault/What to Teach/Day 14 - 05.June.md",
     "Vault/Python/Core Concpets/Exception Handling.md",
     "Vault/What to Teach/Week 3.md",
