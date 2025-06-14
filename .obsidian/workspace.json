@@ -22,35 +22,7 @@
             }
           },
           {
-            "id": "7fe71487e7682384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Python/Modules/7.re.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.re"
-            }
-          },
-          {
-            "id": "dcfd06b03c9524ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Python/Modules/9. logging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. logging"
-            }
-          },
-          {
-            "id": "210f94d6da87bf2e",
+            "id": "ab7051f2e9caf71c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,34 +36,21 @@
             }
           },
           {
-            "id": "d364e0c64b4f77d3",
+            "id": "9fdf7607d059daa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Python/Built Ins/Built-In Functions/Today's Functions.md",
+                "file": "Notes/CS Concepts/Tracks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Today's Functions"
-            }
-          },
-          {
-            "id": "2954dd5e149a86d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Python/Built-In Modules/5. shutil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. shutil"
+              "title": "Tracks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,17 +197,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60bced019765deb5",
+  "active": "9fdf7607d059daa9",
   "lastOpenFiles": [
+    "Tracks.md",
+    "Notes/CS Concepts/Tracks.md",
+    "Vault/What to Teach/Day 16 - 10.Jun.md",
+    "Notes/Tracks",
+    "Vault/Routes",
+    "Vault/Python/Modules/3. os.md",
+    "Untitled.md",
+    "Vault/Python/Core Concpets/Exception Handling.md",
+    "09 June.md",
+    "tempCodeRunnerFile.python",
+    "README.md",
     "Notes/Python/Built-In Modules/8. logging.md",
     "Notes/Python/Built-In Modules/7.re.md",
     "Vault/What to Teach/Day 14 - 05.June.md",
-    "Vault/Python/Core Concpets/Exception Handling.md",
     "Vault/What to Teach/Week 3.md",
     "Notes/Python/Built-In Modules/5. shutil.md",
     "Vault/Python/Built Ins/Built-In Functions/Today's Functions.md",
     "Notes/Python/Built-In Modules/6. json.md",
-    "README.md",
     "Notes/Python/Built-Ins/Built-In Functions/8. Introspecting Objects.md",
     "Notes/Python/Core Concepts/Call by value vs reference.md",
     "Notes/Python/Built-In Modules/4. sys.md",
@@ -260,12 +228,6 @@
     "Notes/Python/Built-In Modules/3. datetime.md",
     "Vault/Python/Core Concpets/Opertors.md",
     "Vault/What to Teach/Day 12 - 03.June.md",
-    "Notes/Python/Core Concepts/Deep Copy vs Shallow Copy.md",
-    "Notes/Python/Built-In Modules/2. pathlib.md",
-    "Notes/Python/Built-In Modules/1. random.md",
-    "Vault/What to Teach/Day 11 - 02.June.md",
-    "Vault/Workspace/LeetCode/__LeetCode.md",
-    "Vault/Workspace/LeetCode/1. Prefix Sum/2. Contiguous [LC525].md",
     "Workspace/LeetCode/1.Prefix Sum",
     "Workspace/LeetCode",
     "Workspace",
@@ -274,9 +236,6 @@
     "Vault/Workspace/LeetCode/5. Monotonic Stack/New Text Document.txt",
     "Vault/Workspace/LeetCode/4. Fast & Slow Pointers/New Text Document.txt",
     "Vault/Workspace/LeetCode/3. Sliding Window/New Text Document - Copy - Copy.txt",
-    "Vault/Workspace/LeetCode/3. Sliding Window/New Text Document - Copy.txt",
-    "Vault/Workspace/LeetCode/3. Sliding Window/New Text Document.txt",
-    "Vault/Workspace/LeetCode/2. Two Pointer/4. Two Sum II - Input Array is Sorted [LC167]",
     "Animation_Sieve_of_Eratosth.gif",
     "media/Pasted image 20250520213617.png",
     "Pasted image 20250520213617.png"
