@@ -29,7 +29,7 @@ Below are the types of imports:
 - For Unix and Unix-like OSs (including MacOS) such a line **instructs the OS how to execute the contents of the file** 
 
 `__init__.py`
-- any folder containig the init.py will be treated as a package '
+- any folder containig the init.py will be treated as a package 
 - This file will be executed when the folder containing this file is imported independent of its children being copied or not
 
 `__doc__`

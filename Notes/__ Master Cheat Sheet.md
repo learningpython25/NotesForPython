@@ -1,81 +1,74 @@
-
-
 ### 1. Basics
 **Comments**
 ```python
-# single line comment
-"""multi line comment
-"""
-''' multi line single quote comment
-'''
+# - single Line comments
+# This is a single-line comment
 
-def add(x, y):
-	""" docstring - function, class, module
-	""" first line
+'''
+This is a multi-line comment
+You can also use triple double quotes like this:
+"""
+Multi-line docstring or comment
+"""
+'''
 ```
 
 **Variables and Data Types**
 ```python
-x = 10
-name = "user"
-pi = 3.14
-is_ready = True / False
+x = 10         # Integer
+name = "Alice" # String
+pi = 3.14      # Float
+is_ready = True # Boolean
 ```
 
-**Input**
+**Input/Output**
 ```python
-name = input("Enter your name; ")
-print(int(name))
+name = input("Enter your name: ")
+print("Hello", name)
+
 ```
 
 ### 2. Data Types
 
 **Numbers**
 ```python
-a = 5
-b = 3.14
-c = 2 + 3j
+a = 5           # int
+b = 3.14        # float
+c = 2 + 3j      # complex
 ```
 
 **Boolean**
 ```python
 is_active = True
-is_ready = False
-#truthy, falsy
-0 -> False
-None Zero -> True
+is_closed = False
 
-"" -> False, everything else True
-None -> False
+print(type(is_active))  # <class 'bool'>
 ```
 
 **String**
 ```python
 greeting = "Hello"
-multline = '''
-this is multi line
-'''
+multiline = '''This is
+a multi-line string'''
 
-str.upper()
-str.lower()
-str.strip() # remove leading and trailing spaces " a " >> "a"
-str.capitalize() #"the" > "The"
-len(str)
-str.startswith("h")
-str[::]
+# String methods
+print(greeting.upper())       # "HELLO"
+print(greeting.lower())       # "hello"
+print(greeting.startswith("H"))  # True
+print(len(greeting))          # 5
 ```
 
 **Type Conversion**
 ```python
-x = int("123")
-x = int("str") # ValueError
-y = str(123)
+x = int("123")     # 123
+y = str(123)       # "123"
+z = float("3.14")  # 3.14
 ```
 
 **Type Checking**
 ```python
-type(x) # <class 'int'>
-isinstance(x, int)
+type(x)             # <class 'int'>
+isinstance(x, int)  # True
 ```
 
 ### 3. Functions
@@ -83,69 +76,66 @@ isinstance(x, int)
 **Basic Function**
 ```python
 def greet():
-	print("Hello")
+    print("Hello!")
 ```
 
 **Function with Parameters**
 ```python
 def greet(name):
-	print("name is", name)
+    print(f"Hello, {name}!")
 ```
 
 **Return Values**
 ```python
-def add(a, b);
-	return a + b
-sum = add(11,2)
-print(sum)
+def add(a, b):
+    return a + b
+
+result = add(3, 4)
+print(result)  # 7
 ```
 
 **Default Arguments**
 ```python
 def greet(name="Guest"):
-	print("name is", name)
-greet()
-greet("user")
+    print(f"Hello, {name}!")
+
+greet()          # Hello, Guest
+greet("Alice")   # Hello, Alice
 ```
 
 **Keyword Arguments**
 ```python
-def country(name, size):
-	print(name, int(size))
-country(size=123, name="abc")
-country(name="def", size=456)
+def order(item, quantity):
+    print(f"{quantity}x {item}")
+
+order(quantity=2, item="Apple")
 ```
 
 **Variable-length Arguments**
 ```python
-# *args
-def print_args(a, b, *args, **kwargs):
-	for arg in args:
-		print(arg)
-print_args(1,3,'ab',[1,2], (1,2), a = 19, b=10)
-# **kwargs alwasy at the ends
-# *args -> alway at end, except **kwards
+def print_args(*args):
+    for arg in args:
+        print(arg)
+
+def print_kwargs(**kwargs):
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
 ```
 
 **Type Hints (Python 3.5+)**
 ```python
 def add(a: int, b: int) -> int:
-	return a+b
-# giving hint to the user about the type
+    return a + b
+
+def greet(name: str) -> None:
+    print(f"Hello, {name}")
 ```
 
 **Lambda Functions (Anonymous Functions)**
 ```python
 square = lambda x: x**2
-
-# single line
-# single input
-# single output
-
-def sqr(x):
-    return x**2
+print(square(5))  # 25
 ```
-
 
 ### 2. Operators
 - Arithmetic Operators
@@ -159,6 +149,13 @@ def sqr(x):
 - `if`, `elif`, `else`
 - Loops: `for`, `while`
 - Loop Control: `break`, `continue`, `pass`
+
+### 4. Functions
+- Defining Functions
+- Arguments and Return Values
+- Lambda Functions
+- `*args` and `**kwargs`
+
 ### 5. Data Structures
 - Lists
 - Tuples

@@ -71,4 +71,29 @@
 	- `exec()` [[9. Running Python Code From Strings#`exec()`]]
 - **Problems**
 	- *Prefix Sum*
-		- 303. Range Sum Query [[1. Range Sum Query [LC303]]]
+		- 303. Range Sum Query [[1. Range Sum Query [LC303]]
+
+
+## Week 4
+- **Web Development Intro**
+	- [[HTML]]
+	- [[CSS]]
+	- [[JS]]
+
+## Week 5
+- **Intermediate Python Concepts**
+	- [[Decorators]]
+	- [[Iterators]]
+	- [[Files]]
+	- [[Exception Handling]]
+
+## Week 6
+**Object Oriented Programming**
+- [[Intro to OOPs]]
+- [[Encapsulation vs Abstration]]
+- [[Multiple Inheritance]]
+- [[Class vs Instance Variables]]
+- [[Class vs Static methods]]
+- [[Magic Methods]]
+- [[Abstract Base Classes]]
+- [[Polymorphism]]
