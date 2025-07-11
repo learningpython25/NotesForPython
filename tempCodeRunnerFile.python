@@ -1,9 +1,0 @@
-
-try:
-    print(1/0)
-except Exception as e:
-    print("THere was an error with message ", type(e))
-else:
-    print("this is else clause")
-finally:
-    print("end of everything")

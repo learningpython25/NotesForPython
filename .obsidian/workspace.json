@@ -8,26 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36401d1538e22373",
+            "id": "e94fa37557e4259b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Python/Thursday/Files.md",
+                "file": "Vault/Python/OOPs/W/composition vs inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Files"
+              "title": "composition vs inheritance"
             }
           },
           {
-            "id": "d6ac7c5c56f7d002",
+            "id": "101b3ff4dc3a06e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Python/Thursday/Iterators.md",
+                "file": "Notes/Python/Core Concepts/Iterators.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,21 +36,49 @@
             }
           },
           {
-            "id": "44775d593038343b",
+            "id": "46c7edb3a161cd41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vault/Python/OOPs/W/Generators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Generators"
+            }
+          },
+          {
+            "id": "37ce55ec589aa666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Python/OOPs/W/Closures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closures"
+            }
+          },
+          {
+            "id": "8eb2140629f20f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Python/OOPs/W/API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,37 +225,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44775d593038343b",
+  "active": "8eb2140629f20f3b",
   "lastOpenFiles": [
-    "Notes/Web Dev/CSS.md",
+    "API.md",
+    "Vault/Python/OOPs/W/API.md",
+    "Vault/Python/OOPs/W/Type.md",
+    "Vault/Python/OOPs/W/Check Number.md",
+    "Vault/Python/OOPs/W/keyboard.md",
+    "Vault/Python/OOPs/W/colorama.md",
+    "Vault/Python/OOPs/W/Closures.md",
+    "Vault/Python/OOPs/W/Generators.md",
+    "Notes/Python/Core Concepts/Iterators.md",
+    "Vault/Python/OOPs/W/composition vs inheritance.md",
+    "Vault/Python/OOPs/Intro to OOPs.md",
+    "Workspace/Projects/Segment Display.md",
     "README.md",
+    "Workspace/Projects",
+    "Vault/pm.md",
+    "Notes/Web Dev/CSS.md",
     "Notes/Web Dev/JS.md",
     "Notes/Web Dev/HTML.md",
     "__Learning Python.md",
-    "Vault/Workspace/Programs/10x with Dice.md",
+    "Workspace/Projects/10x with Dice.md",
     "Pasted image 20250703212631.png",
     "Notes/30 Python Interview Questions.md",
     "Notes/Python/Core Concepts/Call by value vs reference.md",
     "Notes/Python/Daily Articles.md",
-    "Vault/pm.md",
-    "Vault/Workspace/Programs",
-    "Vault/Python/OOPs/Intro to OOPs.md",
+    "Workspace/Programs",
     "Notes/Python/OOPs/Encapsulation vs Abstration.md",
     "Notes/Python/OOPs/Abstract Base Classes.md",
     "Notes/Python/OOPs/Complete Example.md",
     "Notes/Python/OOPs/Polymorphism.md",
-    "Notes/Python/OOPs/Multiple Inheritance.md",
-    "Notes/Python/OOPs/Magic Methods.md",
-    "Notes/Python/OOPs/Class vs Static methods.md",
-    "Notes/Python/OOPs/Class vs Instance Variables.md",
     "Notes/Python/OOPs",
-    "Notes/__ Master Cheat Sheet.md",
-    "__ Syntax Cheat Sheet.md",
-    "09 June.md",
-    "HTML.md",
-    "Intro OOPs.md",
-    "OOPs.md",
-    "Notes/Resources.md",
     "Vault/Interview Questions",
     "Vault/Python/OOPs/W",
     "Notes/Untitled",
@@ -235,7 +264,6 @@
     "Vault/Python/OOPs",
     "Vault/Python/Thursday",
     "Notes/Python/QnA",
-    "Notes/Web Dev",
     "media/Pasted image 20250602183838.png",
     "Animation_Sieve_of_Eratosth.gif",
     "media/Pasted image 20250520213617.png",
