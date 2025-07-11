@@ -79,7 +79,7 @@
 	- [[HTML]]
 	- [[CSS]]
 	- [[JS]]
-
+*Thursday Friday, Off*
 ## Week 5
 - **Intermediate Python Concepts**
 	- [[Decorators]]
@@ -97,3 +97,13 @@
 - [[Magic Methods]]
 - [[Abstract Base Classes]]
 - [[Polymorphism]]
+
+## Week 7
+- [[10x with Dice]]
+- Hangman
+- [[Check Number]]
+- [[Type Test]]
+- [[API]]
+- [[Generators]]
+- [[Closures]]
+- [[Composition vs Inheritance]]

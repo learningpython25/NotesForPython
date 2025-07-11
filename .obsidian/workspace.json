@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Python/OOPs/W/API.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "README"
             }
           }
         ],
@@ -225,21 +225,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb2140629f20f3b",
+  "active": "60bced019765deb5",
   "lastOpenFiles": [
-    "API.md",
-    "Vault/Python/OOPs/W/API.md",
-    "Vault/Python/OOPs/W/Type.md",
-    "Vault/Python/OOPs/W/Check Number.md",
-    "Vault/Python/OOPs/W/keyboard.md",
-    "Vault/Python/OOPs/W/colorama.md",
-    "Vault/Python/OOPs/W/Closures.md",
-    "Vault/Python/OOPs/W/Generators.md",
-    "Notes/Python/Core Concepts/Iterators.md",
-    "Vault/Python/OOPs/W/composition vs inheritance.md",
-    "Vault/Python/OOPs/Intro to OOPs.md",
-    "Workspace/Projects/Segment Display.md",
+    "Vault/SQL/Intro to MySQL.md",
     "README.md",
+    "Notes/Python/Quiz/2. Modules Quiz.md",
+    "API.md",
+    "Notes/Python/Quiz/1. PIP Quiz.md",
+    "Notes/Python/OOPs/Intro to OOPs.md",
+    "Workspace/Projects/Type Test.md",
+    "Notes/Python/OOPs/Composition vs Inheritance.md",
+    "Notes/Python/Core Concepts/Generators.md",
+    "Notes/Python/PyPI Modules/keyboard.md",
+    "Notes/Python/PyPI Modules/colorama.md",
+    "Notes/Python/PyPI Modules",
+    "Notes/Python/Core Concepts/Closures.md",
+    "Workspace/Projects/Check Number.md",
+    "Notes/CS Concepts/API.md",
+    "Notes/Python/Core Concepts/Iterators.md",
+    "Workspace/Projects/Segment Display.md",
     "Workspace/Projects",
     "Vault/pm.md",
     "Notes/Web Dev/CSS.md",
@@ -253,9 +257,6 @@
     "Notes/Python/Daily Articles.md",
     "Workspace/Programs",
     "Notes/Python/OOPs/Encapsulation vs Abstration.md",
-    "Notes/Python/OOPs/Abstract Base Classes.md",
-    "Notes/Python/OOPs/Complete Example.md",
-    "Notes/Python/OOPs/Polymorphism.md",
     "Notes/Python/OOPs",
     "Vault/Interview Questions",
     "Vault/Python/OOPs/W",
@@ -263,7 +264,6 @@
     "Vault/SQL",
     "Vault/Python/OOPs",
     "Vault/Python/Thursday",
-    "Notes/Python/QnA",
     "media/Pasted image 20250602183838.png",
     "Animation_Sieve_of_Eratosth.gif",
     "media/Pasted image 20250520213617.png",
