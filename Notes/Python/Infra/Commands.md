@@ -13,7 +13,7 @@
 	- similar to `where python` but for UNIX flavored machines
 
 - **`python --version`**
-- **`python --V`**
+- **`python -V`**
 	- `>>> Python 3.12.2`
 
 - **`python -m site`**

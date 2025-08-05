@@ -9,5 +9,5 @@
 > This command tells pip to install the package from the specified Git repository by [using the `git+https` scheme with the repository URL](https://realpython.com/what-is-pip/#installing-packages-from-your-github-repositories).
 
 
-![[Commands#PIP]]
+![[Notes/Python/Infra/Commands#PIP]]
 

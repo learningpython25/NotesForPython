@@ -34,3 +34,6 @@ Below are the types of imports:
 
 `__doc__`
 gives the doc string of a a function or class or module
+
+`__file__`
+a dunder describing the file path
