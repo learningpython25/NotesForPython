@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           },
           {
@@ -200,7 +200,7 @@
   "active": "e3636ffa12ae1fd4",
   "lastOpenFiles": [
     "archive/Notes/Git/Git Basics.md",
-    "README.md.md",
+    "README.md",
     "Notes/Workspace/Day 1 - Basics.md",
     "__Master Cheat Sheet.md",
     "archive/Notes/__ Master Cheat Sheet.md",
