@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08d839641655f015",
+            "id": "7cec975d4f631201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Interview Questions/Technical Questions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technical Questions"
-            }
-          },
-          {
-            "id": "e3636ffa12ae1fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Notes/Workspace/Day 2 - Workspace - Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "94f64a4ed15ab186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/Notes/__ Master Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "__ Master Cheat Sheet"
+              "title": "Day 2 - Workspace - Functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 340.5
   },
   "right": {
     "id": "c80baa15bfdb8cde",
@@ -197,44 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3636ffa12ae1fd4",
+  "active": "7cec975d4f631201",
   "lastOpenFiles": [
-    "archive/Notes/Git/Git Basics.md",
-    "README.md",
-    "Notes/Workspace/Day 1 - Basics.md",
+    "__Tracker.md",
     "__Master Cheat Sheet.md",
-    "archive/Notes/__ Master Cheat Sheet.md",
+    "Built In Functions.md",
+    "Master Cheat Sheet.md",
     "Vault/What to Teach/Day 2.md",
+    "Vault/What to Teach/Day 2.md",
+    "README.md",
+    "Notes/Others/Git Branches.md",
+    "Notes/Workspace/Day 2 - Workspace - Functions.md",
+    "Notes/Others/Git.md",
+    "Notes/Others",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/2. Basic Data Types.md",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/3. Collection Data Types.md",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/4. Iterable Functions.md",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/8. Introspecting Objects.md",
+    "Notes/Python/Built Ins/Built In Functions/8. Introspecting Objects.md",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/1. Math Related functions.md",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/9. Running Python Code From Strings.md",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/10. Miscelleanous Functions.md",
+    "archive/Notes/Python/Built-Ins/__Built In Dunders.md",
+    "Notes/Python/Built Ins/__Built In Dunders.md",
+    "Notes/Python/Built Ins/Built In Functions/__Built In Functions.md",
+    "Notes/Python/Built Ins/Built In Functions",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/__Built In Functions.md",
+    "Notes/Python/Built Ins",
+    "archive/Notes/Python/Built-Ins/Built-In Functions/__Built In Functions 1.md",
+    "archive/Notes/Git/Git Basics.md",
+    "Notes/Python/Core Concepts/Untitled",
+    "archive/Notes/__ Master Cheat Sheet.md",
     "Vault/Interview Questions/Technical Questions.md",
-    "Notes/Workspace/Day 1 - Basics.md",
     "Notes/Workspace",
-    "Vault/What to Teach/Day 1 - What to Teach.md",
     "Workspace",
     "Vault/workspace",
     "Vault/Interview Questions",
     "Vault/What to Teach",
-    "Notes/Interview Questions/Technical Questions.md",
-    "Notes/Python/Intro To Python.md",
-    "__Course Structure.md",
-    "Modules and Packages.md",
-    "archive/Notes/Python/Core Concepts/Modules and imports.md",
-    "archive/Notes/Python/Built-Ins/__Built-In Constants.md",
-    "Notes/Interview Questions/Project Based Questions.md",
-    "Notes/Interview Questions/Behavioral Questions.md",
     "Notes/Interview Questions",
-    "Notes/Python/Core Concepts/Modules and imports.md",
-    "Notes/Python/Core Concepts",
-    "Notes/Python/New folder",
-    "__Learning Python.md",
-    "archive/Notes/Python/Infra/PIP.md",
-    "archive/Notes/Python/Infra/Commands.md",
-    "Notes/Python/Infra/Commands.md",
-    "Notes/Python/Infra/PIP.md",
-    "Notes/Python/Infra",
-    "Notes/Python",
-    "Python/Infra/PIP.md",
-    "Python/Infra/Commands.md",
-    "archive/Notes/Python/Built-Ins/__Built In Keywords.md",
     "Pasted image 20250703212631.png",
     "media/Pasted image 20250602183838.png",
     "Animation_Sieve_of_Eratosth.gif",
