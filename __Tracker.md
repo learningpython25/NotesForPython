@@ -20,3 +20,11 @@
 - ❌ Practice: [[Day 2 - Practise Functions]]
 
 
+#### Revision Tracker
+Day 3
+- PIP [[Notes/Python/Infra/PIP|PIP]]
+Day 3
+- Data Types [[Notes/Python/Built Ins/Built-In Datatypes/__Built In Data Types|__Built In Data Types]]
+- Operator
+Day 4
+- List - Properties, Methods, Functions

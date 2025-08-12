@@ -26,8 +26,8 @@ d = 12345678901234567890  # Python handles big integers
 10 - 4      # 6
 7 * 6       # 42
 8 // 3      # 2 (integer division)
-8 % 3       # 2 (modulo)
-2 ** 3      # 8 (power)
+8 % 3       # 2 (modulo) -> remainder
+2 ** 4      # 8 (power) 2*2*2*2
 ```
 
 ---
