@@ -30,7 +30,7 @@
 ---
 
 **Day 5**
-- [[Project Based Questions (valut)]]
+- [[Project Based Questions]]
 - [[Behavioral Questions]]
 - [[Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Lists|Lists]]
 - *Questions:* [[5. List - Part 2]]

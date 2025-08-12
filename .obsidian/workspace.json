@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Interview Questions/Behavioral Questions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioral Questions"
+              "title": "README"
             }
           }
         ],
@@ -255,15 +255,17 @@
   },
   "active": "553b882b4ae5df13",
   "lastOpenFiles": [
-    "Notes/Interview Questions/Project Based Questions.md",
     "Vault/Interview Questions/Project Based Questions (vault).md",
+    "README.md",
+    "Notes/Interview Questions/Project Based Questions.md",
+    "Project Based Questions (valut).md",
+    "Notes/Interview Questions/Behavioral Questions.md",
     "Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Lists.md",
     "Notes/Interview Questions/Project Based Questions (valut).md",
     "Vault/Interview Questions/Project Based Questions (valut).md",
     "Vault/Interview Questions/Techinical Questions/5. List - Part 2 (vault).md",
     "Notes/Interview Questions/5. List - Part 2 (vault).md",
     "Vault/Interview Questions/Project Based Questions.md",
-    "README.md",
     "Notes/Interview Questions/Technical Questions/5. List - Part 2.md",
     "Notes/Interview Questions/Technical Questions/4. List - Part 1.md",
     "Vault/Interview Questions/Techinical Questions",
@@ -275,14 +277,12 @@
     "Notes/Python/Built Ins/Built-In Datatypes/Numeric Types.md",
     "Notes/Interview Questions/Technical Questions/3. Bool, Numeric Types.md",
     "Notes/Interview Questions/Technical Questions/2. Git & PIP.md",
-    "Notes/Interview Questions/Behavioral Questions.md",
     "__Tracker.md",
     "Notes/Interview Questions/Technical Questions",
     "Notes/CS Concepts/Mutable vs immutable.md",
     "Notes/Python/Core Concepts/Modules and imports.md",
     "Vault/What to Teach/Day 4.md",
     "archive/Notes/Python/Core Concepts/Lists vs Tuple vs Set vs Dict.md",
-    "Notes/Python/Built Ins/Built-In Datatypes/Text Types/2.3 String - Formatting.md",
     "archive/Notes/Python/Built-Ins/Built-In Modules",
     "archive/Notes/Python/Built-Ins/Built-In Datatypes/Text Types",
     "archive/Notes/Python/Built-Ins/Built-In Datatypes/Set Types",
