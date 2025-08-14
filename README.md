@@ -35,3 +35,10 @@
 - [[Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Lists|Lists]]
 - *Questions:* [[5. List - Part 2]]
 
+**Day 6**
+- [[Project Based Questions]] (revised answer)
+- [[Notes/Python/Built Ins/Built In Modules/3. os|3. os]]
+- [[Notes/Python/Built Ins/Built In Modules/7.re|7.re]]
+- [[Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Tuples|Tuples]]
+- [[Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Range|Range]]
+- *Questions:* [[Day 6 - os and re]], [[Day 6 - tuple and range]]

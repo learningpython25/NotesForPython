@@ -83,20 +83,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Python/Built Ins/Built-In Datatypes/_Common Sequence Methods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Common Sequence Methods"
-            }
-          },
-          {
-            "id": "553b882b4ae5df13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -104,9 +90,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "10161f270847a174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Interview Questions/Technical Questions/5. List - Part 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. List - Part 2"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,44 +253,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553b882b4ae5df13",
+  "active": "60bced019765deb5",
   "lastOpenFiles": [
-    "Vault/Interview Questions/Project Based Questions (vault).md",
+    "Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Range.md",
     "README.md",
+    "Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Tuples.md",
+    "Notes/Python/Built Ins/Built In Modules/7.re.md",
+    "Notes/Python/Built Ins/Built In Modules/3. os.md",
     "Notes/Interview Questions/Project Based Questions.md",
+    "Notes/Interview Questions/Technical Questions/Day 6 - tuple and range.md",
+    "Notes/Interview Questions/Technical Questions/Day 6 - os and re.md",
+    "Vault/What to Teach/Day 6 - Aug 12.md",
+    "Notes/Interview Questions/Technical Questions/5. List - Part 2.md",
+    "Vault/Interview Questions/Project Based Questions (vault).md",
+    "Vault/Interview Questions/Techinical Questions/5. List - Part 2 (vault).md",
+    "Vault/workspace/Day 6.md",
+    "Day 6.md",
+    "__Tracker.md",
+    "Notes/Python/Built Ins/Built-In Datatypes/_Common Sequence Methods.md",
+    "Notes/Python/Built Ins/Built-In Datatypes/Range.md",
+    "Notes/Python/Built Ins/Built-In Datatypes/Tuples.md",
+    "Vault/Built Ins/New folder",
+    "Notes/Python/Built Ins/Built In Modules",
+    "Vault/Built Ins",
+    "Vault/New folder",
     "Project Based Questions (valut).md",
     "Notes/Interview Questions/Behavioral Questions.md",
     "Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Lists.md",
     "Notes/Interview Questions/Project Based Questions (valut).md",
     "Vault/Interview Questions/Project Based Questions (valut).md",
-    "Vault/Interview Questions/Techinical Questions/5. List - Part 2 (vault).md",
     "Notes/Interview Questions/5. List - Part 2 (vault).md",
     "Vault/Interview Questions/Project Based Questions.md",
-    "Notes/Interview Questions/Technical Questions/5. List - Part 2.md",
     "Notes/Interview Questions/Technical Questions/4. List - Part 1.md",
     "Vault/Interview Questions/Techinical Questions",
-    "Notes/Interview Questions/Technical Questions/1. Python Environment Questions.md",
-    "archive/Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types/Lists.md",
-    "Notes/Python/Built Ins/Built-In Datatypes/__Built In Data Types.md",
-    "Day 5.md",
-    "Notes/Python/Built Ins/Built-In Datatypes/_Common Sequence Methods.md",
-    "Notes/Python/Built Ins/Built-In Datatypes/Numeric Types.md",
-    "Notes/Interview Questions/Technical Questions/3. Bool, Numeric Types.md",
-    "Notes/Interview Questions/Technical Questions/2. Git & PIP.md",
-    "__Tracker.md",
     "Notes/Interview Questions/Technical Questions",
-    "Notes/CS Concepts/Mutable vs immutable.md",
-    "Notes/Python/Core Concepts/Modules and imports.md",
-    "Vault/What to Teach/Day 4.md",
-    "archive/Notes/Python/Core Concepts/Lists vs Tuple vs Set vs Dict.md",
     "archive/Notes/Python/Built-Ins/Built-In Modules",
     "archive/Notes/Python/Built-Ins/Built-In Datatypes/Text Types",
     "archive/Notes/Python/Built-Ins/Built-In Datatypes/Set Types",
     "archive/Notes/Python/Built-Ins/Built-In Datatypes/Sequence Types",
-    "archive/Notes/Python/Built-Ins/Built-In Datatypes",
-    "Notes/Python/Built Ins/Built-In Datatypes/Text Types",
-    "Notes/Python/Built Ins/Built-In Datatypes/Set Types",
-    "Notes/Python/Built Ins/Built-In Datatypes/Sequence Types",
     "Pasted image 20250703212631.png",
     "media/Pasted image 20250602183838.png",
     "Animation_Sieve_of_Eratosth.gif",
