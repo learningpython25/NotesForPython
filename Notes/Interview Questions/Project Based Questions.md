@@ -1,10 +1,11 @@
-##### 1. Can you explain some of your projects?
+### 1. Can you explain some of your projects?
 
 > [!NOTE] Answer
-> ###### Project Olympus – Invoice Extraction Automation
+> ### National Grid Invoice Extraction
+> **Requirement Gathering:** There was a payments team in our firm which dealt with hundered PDF invoices where they had to extract the values like invoice amount and dates and others and feed it inot a downstream process. However, they were facing a lot of redundancy and error during this. Hence, we were asked to build a tool for them to handle this.
 > 
 > **Duration:** 2 Months (Core Development) + 1.5 Months (Infrastructure Setup)  
-> **Team Size:** 5–6 Members  
+> **Team Size:** 2-3 Members  
 > **Role:** Python Developer  
 > **Tech Stack:** Python, Git (Local), Bitbucket, Agile Scrum, JIRA, AWS (EC2, EMR), Virtual Machines
 > 
@@ -40,7 +41,67 @@
 > - **Excel Output** – Used `openpyxl`/`pandas` to write extracted data into a structured Excel sheet with column headers, ensuring clean formatting for further processing.
 > - **Automation & Scalability** – Implemented a loop to process all PDFs in a folder automatically, added error logging, and designed the code so new fields or formats can be added with minimal changes.
 
-##### 2. Can you explain the entire life cycle of a project?
+### 2. Can you explain the entire life cycle of a project?
 
-##### 3. Can you explain one project in detail?
+> [!NOTE]
+> 1. **Requirement Gathering & Understanding**
+> 
+>    * For this project, the requirement was: *“Check all files in a folder and return only valid PDFs (files ending with `.pdf` and with size > 0).”*
+>    * At this stage, I clarify the scope, edge cases (like empty files, subfolders), and success criteria.
+> 
+> 2. **Planning & Design**
+> 
+>    * I decide what modules or functions I’ll need.
+>    * For example:
+> 
+>      * A function to list files.
+>      * A function to validate each file.
+>      * Some basic logging.
+>    * I also choose the tools (in this case, Python + `os` module for filesystem).
+> 
+> 3. **Implementation (Coding)**
+> 
+>    * Write the Python function `find_valid_pdfs()`.
+>    * Add error handling with `try/except`.
+>    * Add logging using `print()` statements.
+>    * Keep the code simple so beginners can understand.
+> 
+> 4. **Testing**
+> 
+>    * Run the script with different cases:
+> 
+>      * A folder with only PDFs.
+>      * A folder with non-PDFs.
+>      * Empty PDFs (0 KB).
+>      * Subfolders mixed in.
+>    * Confirm that the function only returns the valid files.
+> 
+> 5. **Deployment / Delivery**
+> 
+>    * Share the script with the team or package it for others to use.
+>    * Maybe configure it so that the folder path can be passed dynamically.
+> 
+> 6. **Maintenance / Improvements**
+> 
+>    * Later, if the requirements change (for example, check `.docx` files too, or add logging to a file instead of console), I can extend the same script.
+>    * Maintenance usually means fixing bugs or enhancing features based on feedback.
 
+### 3. Can you tell about the difficulties you faced in this process?
+
+> [!NOTE]
+> 1. **Handling Non-File Items in the Folder**
+> 
+>    * At first, I assumed everything in the folder was a file, but some folders contained sub-directories.
+>    * This caused errors when I tried to check file size.
+>    * **Solution:** I used `os.path.isfile()` to filter out subfolders before validation.
+> 
+> 2. **Case Sensitivity of File Extensions**
+> 
+>    * Initially, my script only checked for `.pdf`. Files with `.PDF` or `.Pdf` were skipped even though they were valid.
+>    * **Solution:** I normalized the filename using `.lower()` before checking the extension.
+> 
+> 3. **Error Handling & Logging**
+> 
+>    * When I first ran the script, if one file was locked or corrupted, the whole program crashed.
+>    * **Solution:** I added `try/except` around file operations and simple logging using `print()` so that errors are shown but processing continues for other files.
+> 

@@ -42,3 +42,9 @@
 - [[Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Tuples|Tuples]]
 - [[Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Range|Range]]
 - *Questions:* [[Day 6 - os and re]], [[Day 6 - tuple and range]]
+
+---
+**Day 7**
+- [[Behavioral Questions]]
+- [[Project Based Questions]]
+- [[Project - Part 1]] 
