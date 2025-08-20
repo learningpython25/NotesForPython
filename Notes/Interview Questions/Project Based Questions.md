@@ -1,35 +1,33 @@
-### 1. Can you explain some of your projects?
+### 1. Can you explain one of your projects?
 
 > [!NOTE] Answer
 > ### National Grid Invoice Extraction
-> **Requirement Gathering:** There was a payments team in our firm which dealt with hundered PDF invoices where they had to extract the values like invoice amount and dates and others and feed it inot a downstream process. However, they were facing a lot of redundancy and error during this. Hence, we were asked to build a tool for them to handle this.
-> 
-> **Duration:** 2 Months (Core Development) + 1.5 Months (Infrastructure Setup)  
-> **Team Size:** 2-3 Members  
-> **Role:** Python Developer  
-> **Tech Stack:** Python, Git (Local), Bitbucket, Agile Scrum, JIRA, AWS (EC2, EMR), Virtual Machines
-> 
-> **Overview**
-> - Developed and deployed an automated system to process **200–300 invoice PDF files daily**, ranging from **1 to 100 pages each**.
-> - Achieved **95% successful extraction rate** for up to 10 key fields per invoice (e.g., invoice number, date, amount, vendor).
-> - Designed for scalability and currently running in **production** with minimal issues.
-> 
-> **Core Responsibilities**
-> 1. *PDF Data Extraction*
->     - Implemented PDF parsing using `pdfplumber` and **regex-based field matching** to handle different invoice layouts.
+> **Where did you get this project from?:** There was a payments team in our firm which dealt with hundered PDF invoices where they had to extract the values like invoice amount and dates and others and feed it inot a downstream process. However, they were facing a lot of *redundancy* and *error* during this. Hence, we were asked to build a tool for them to handle this.
+>
+> **What is the project about? (Metadetails)** 
+> *Duration:* 40+ Business Day (2 Months)
+> *Team Size:* 3 Members  (Me, Av, Su)
+> *Primary Language:* Python 
+> *Tech Stack:* Python, Git (Local), Bitbucket, Agile Scrum, JIRA, AWS (EC2, EMR), Virtual Machines
+>
+> **High Level Design**
+> 1. *Python -> Extraction Main Workflow*
+>     - Implemented PDF parsing using `pdfPlumber` and **regex-based field matching** to handle different invoice layouts.
 >     - Built **error handling** to identify incomplete or unreadable invoices and move them to an exceptions folder for **manual or automated reprocessing**.
-> 2. *Workflow*
->     - Created scripts to run in **AWS EC2** for large-scale batch processing.
->     - Integrated with **AWS EMR** for potential distributed processing of high-volume workloads.
-> 3. *Collaboration & Version Control*
+> 2. *Development and Deployment*
 >     - Used **Git** for source control and **Bitbucket** for code reviews.
+>     - Created scripts to run in **AWS EC2** for large-scale batch processing.
 >     - Worked in **Agile Scrum** environment — participated in sprint planning, daily standups, and retrospectives.
-> 4. *Monitoring & Maintenance*
+> 3. *Monitoring & Maintenance*
 >     - Set up logging for tracking failed extractions.
 >     - In production, resolved **3 post-deployment issues** related to regex mismatches and AWS instance configuration.
-> 5. *Infrastructure Setup*
->     - Helped configure **VM environments** for development and testing.
->     - Coordinated with DevOps for AWS deployment and scaling.
+> 
+> **Final Statistics**
+> - Developed and deployed an automated system to process **3500+ invoice PDF files daily**, ranging from **45,000 pages each**.
+> - Achieved **95% successful extraction rate** for up to 10 key fields per invoice (e.g., invoice number, date, amount, vendor).
+> - Designed for scalability and currently running in **production** with minimal issues.
+
+
 
 > [!abstract] Answer 2 - Simple
 > ## Invoice Extraction Project
@@ -49,7 +47,7 @@
 >    * For this project, the requirement was: *“Check all files in a folder and return only valid PDFs (files ending with `.pdf` and with size > 0).”*
 >    * At this stage, I clarify the scope, edge cases (like empty files, subfolders), and success criteria.
 > 
-> 2. **Planning & Design**
+> 2. **Solution Design**
 > 
 >    * I decide what modules or functions I’ll need.
 >    * For example:
@@ -88,20 +86,18 @@
 
 ### 3. Can you tell about the difficulties you faced in this process?
 
+Problem -> Effect -> Resolution
+
 > [!NOTE]
 > 1. **Handling Non-File Items in the Folder**
+>    * At first, I assumed all the required files were placed inside a directory, however during production we learned that there were *junk files* and also there *nested folders*. That caused the tool to either *fail* or *miss files*
+>    * **Solution:** I built a small logic to flatten out all the nested folders and the also to remove the junk files using the `os` and `path` python libraries
 > 
->    * At first, I assumed everything in the folder was a file, but some folders contained sub-directories.
->    * This caused errors when I tried to check file size.
->    * **Solution:** I used `os.path.isfile()` to filter out subfolders before validation.
+> 2. **Invalid file or Invalid Layout**
 > 
-> 2. **Case Sensitivity of File Extensions**
-> 
->    * Initially, my script only checked for `.pdf`. Files with `.PDF` or `.Pdf` were skipped even though they were valid.
->    * **Solution:** I normalized the filename using `.lower()` before checking the extension.
-> 
-> 3. **Error Handling & Logging**
-> 
->    * When I first ran the script, if one file was locked or corrupted, the whole program crashed.
->    * **Solution:** I added `try/except` around file operations and simple logging using `print()` so that errors are shown but processing continues for other files.
-> 
+>    * Once it was live, there were some files which looked like .pdf files but was *invalid* and when the code tried to read them they would throw errors; and sometimes the *layout* was different and this lead to *incorrect values*.
+>    * **Solution:** We added *two validations* to check if the file was a valid pdf and to check if it aligned with a pre-defined layout. (pdfplumber -> open, keyword -> invoice)
+
+
+
+

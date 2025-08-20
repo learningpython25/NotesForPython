@@ -50,31 +50,17 @@
             }
           },
           {
-            "id": "e07d60640d0119c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "fbebf851ab9fe187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Interview Questions/Technical Questions/Day 6 - tuple and range.md",
+                "file": "Notes/Interview Questions/Behavioral Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 6 - tuple and range"
+              "title": "Behavioral Questions"
             }
           },
           {
@@ -83,16 +69,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Python/Built Ins/Built In Modules/3. os.md",
+                "file": "Notes/Python/Built Ins/Built-In Datatypes/Text Types/2.1 String - Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. os"
+              "title": "2.1 String - Intro"
+            }
+          },
+          {
+            "id": "2b231d1369d67a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Interview Questions/Technical Questions/Day 6 - os and re.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 6 - os and re"
+            }
+          },
+          {
+            "id": "2605647850b72e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,18 +254,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e07d60640d0119c9",
+  "active": "2605647850b72e98",
   "lastOpenFiles": [
-    "Vault/workspace/project 1/extract from pdf.md",
-    "Vault/workspace/project 1/find files.md",
-    "README.md",
-    "Notes/Workspace/Project - Part 1.md",
-    "Notes/Interview Questions/Behavioral Questions.md",
+    "Notes/Python/Built Ins/Built-In Datatypes/Text Types/2.1 String - Intro.md",
     "Notes/Interview Questions/Project Based Questions.md",
-    "Notes/Interview Questions/Technical Questions/Day 6 - tuple and range.md",
+    "Notes/Interview Questions/Behavioral Questions.md",
     "Notes/Interview Questions/Technical Questions/Day 6 - os and re.md",
-    "Vault/What to Teach/Day 7.md",
+    "README.md",
     "Notes/Python/Built Ins/Built In Modules/3. os.md",
+    "Notes/Interview Questions/Technical Questions/Day 6 - tuple and range.md",
+    "Vault/workspace/project 1/find files.md",
+    "Vault/workspace/project 1/extract from pdf.md",
+    "Vault/What to Teach/Day 7.md",
+    "Vault/What to Teach/Day 6.md",
+    "Notes/Workspace/Project - Part 1.md",
     "Vault/What to Teach/Day 6 - Aug 12.md",
     "Vault/workspace/project 1",
     "__Tracker.md",
@@ -262,7 +278,6 @@
     "Vault/Interview Questions/Project Based Questions (vault).md",
     "Vault/Interview Questions/Techinical Questions/5. List - Part 2 (vault).md",
     "Vault/workspace/Day 6.md",
-    "Day 6.md",
     "Notes/Python/Built Ins/Built-In Datatypes/_Common Sequence Methods.md",
     "Notes/Python/Built Ins/Built-In Datatypes/Range.md",
     "Notes/Python/Built Ins/Built-In Datatypes/Tuples.md",
@@ -272,7 +287,6 @@
     "Vault/New folder",
     "Project Based Questions (valut).md",
     "Notes/Python/Built Ins/Built-In Datatypes/Sequence Types/Lists.md",
-    "Notes/Interview Questions/Project Based Questions (valut).md",
     "Vault/Interview Questions/Techinical Questions",
     "Notes/Interview Questions/Technical Questions",
     "archive/Notes/Python/Built-Ins/Built-In Modules",

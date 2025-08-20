@@ -48,3 +48,9 @@
 - [[Behavioral Questions]]
 - [[Project Based Questions]]
 - [[Project - Part 1]] 
+
+**Day 8**
+- [[Behavioral Questions]]
+- [[Project Based Questions]]
+- [[Notes/Python/Built Ins/Built-In Datatypes/Text Types/2.1 String - Intro|2.1 String - Intro]]
+- [[Notes/Python/Built Ins/Built In Modules/3. os|3. os]]

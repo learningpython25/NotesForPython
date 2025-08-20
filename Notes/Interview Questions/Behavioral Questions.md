@@ -27,6 +27,30 @@
 ##### 3. Tell me about your role/job-description
 
 ##### 4. Why did you shift from Salesforce to Python?
-- I was interested in programming in general
-- I was alwasy curios to know how thigns work underneath beyond a tool
-- I was captivated by the AI growth and wanted to know how it is working and that pulled me into python and from there it hooked me up and started learning deep
+
+> [!NOTE]
+> - I started my career in *Salesforce*, which gave me good exposure to how business processes are automated using tools. But I always had a *curiosity for programming* — I wanted to understand how things work at a deeper level, beyond what a tool provides out of the box. 
+> - Around that time, I was fascinated by the rapid growth of *AI and automation*, and I noticed that Python was at the center of much of that innovation. That motivated me to start learning Python on my own.
+> - I *enjoyed building scripts, solving problems*, and realizing how versatile Python is, from automation to data handling to even AI applications. 
+> - Over time, *Python felt like the right direction* for me, not just because of industry trends, but because I genuinely enjoy the problem-solving and flexibility it gives me as a developer."
+
+
+---
+# Other Behavioral Questions
+
+
+##### 1. Tell me about a challenging bug you faced and how you solved it.
+
+
+##### 2. How do you handle tight deadlines?
+
+
+##### 3. Describe a time you worked in a team and disagreed with a colleague. How did you handle it?
+
+
+##### 4. How do you keep your Python skills up to date?
+
+
+##### 5. Tell me about a time you made a mistake at work. How did you handle it?
+
+
