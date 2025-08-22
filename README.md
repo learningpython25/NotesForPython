@@ -54,3 +54,12 @@
 - [[Project Based Questions]]
 - [[Notes/Python/Built Ins/Built-In Datatypes/Text Types/2.1 String - Intro|2.1 String - Intro]]
 - [[Notes/Python/Built Ins/Built In Modules/3. os|3. os]]
+
+**Day 9**
+- Interview Questions Practise
+
+**Day  10**
+- [[Notes/Python/Built Ins/Built In Modules/7.re|7.re]]
+- [[Notes/Python/Core Concepts/Files|Files]]
+- [[Project - Part 2]]
+- [[Project Part 2 - Description]]
