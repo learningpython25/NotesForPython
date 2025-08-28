@@ -16,23 +16,41 @@
 | Day             | Topic                      | Technical Questions | Practise Problems |
 | --------------- | -------------------------- | ------------------- | ----------------- |
 | *Day 8 - 11th*  | Interview Questions, Lists |                     | ✅                 |
-| *Day 9 - 12th*  | *Skipped on request*        | ➖                   | ➖                 |
-| *Day 10 - 13th* | *Skipped on request*        | ➖                   | ➖                 |
+| *Day 9 - 12th*  | Interview Questions        | ➖                   | ➖                 |
+| *Day 10 - 13th* | *Skipped on request*       | ➖                   | ➖                 |
 | *Day 11 - 14th* | **S couldn't attend**      | ➖                   | ➖                 |
-| *Day 12 - 15th* | *Skipped on request*        | ➖                   | ➖                 |
-| *Day 13 - 16th* | *Skipped on request*        | ➖                   | ➖                 |
-| *Day 14 - 17th* | *Skipped on request*        | ➖                   | ➖                 |
+| *Day 12 - 15th* | *Skipped on request*       | ➖                   | ➖                 |
+| *Day 13 - 16th* | *Skipped on request*       | ➖                   | ➖                 |
+| *Day 14 - 17th* | *Skipped on request*       | ➖                   | ➖                 |
 **Week 3**
+
+| Day             | Topic                 | Technical Questions | Practise Problems |
+| --------------- | --------------------- | ------------------- | ----------------- |
+| *Day 15 - 18th* | Interview Questions   |                     |                   |
+| *Day 16 - 19th* | Interview Questions   |                     |                   |
+| *Day 17 - 20th* | **S couldn't attend** |                     |                   |
+| *Day 18 - 21th* | Interview Questions   |                     |                   |
+| *Day 19 - 22nd* | Project Part 2        |                     |                   |
+| *Day 20 - 23rd* | *Skipped on request*  |                     |                   |
+| *Day 21 - 24th* | *Skipped on request*  |                     |                   |
+
+**Week 4**
+
+| Day             | Topic                | Technical Questions | Practise Problems |
+| --------------- | -------------------- | ------------------- | ----------------- |
+| *Day 22 - 25th* | *Skipped on request* |                     |                   |
+| *Day 23 - 26th* | *Skipped on request* |                     |                   |
+| *Day 24 - 27th* | Resume Preparation   |                     |                   |
+| *Day 25 - 28th* |                      |                     |                   |
+| *Day 26 - 29th* |                      |                     |                   |
+| *Day 27 - 30th* | **Holiday**          |                     |                   |
+| *Day 28 - 31st* | **Holiday**          |                     |                   |
+**Week 5**
 
 | Day             | Topic | Technical Questions | Practise Problems |
 | --------------- | ----- | ------------------- | ----------------- |
-| *Day 15 - 18th* |       |                     |                   |
-| *Day 16 - 19th* |       |                     |                   |
-| *Day 17 - 20th* |       |                     |                   |
-| *Day 18 - 21th* |       |                     |                   |
-| *Day 19 - 22nd* |       |                     |                   |
-| *Day 20 - 23rd* |       |                     |                   |
-| *Day 21 - 24th* |       |                     |                   |
+| *Day 29 - 01st* |       |                     |                   |
+| *Day 30 - 02nd* |       |                     |                   |
 
 
 
